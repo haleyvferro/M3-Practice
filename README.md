@@ -24,7 +24,7 @@ The endpoints you will need are:
 As a user, I can:
 
 - See the FIRST foodItems's details, including its **name, image, description, and reviews**, when the page loads
-- Change the beer's description and **still see that change when reloading the page**
+- Change the food item's description and **still see that change when reloading the page**
 - Add a review for the beer (no persistence needed)
 
 ## Advanced Deliverables
